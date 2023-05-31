@@ -7,3 +7,9 @@
 2- Paint the canvas color to be all black, from brushes select "brush" and make it's size to be 8px.
 
 3- Start Drawing and save the image, then load it to test any of the three models.
+
+
+### The link to the dataset used from QuickDraw: https://drive.google.com/file/d/1m1UeCbJ5uA_qBvA19mTGCAMDAZjg9pwN/view?usp=sharing
+
+
+### In the main branch you will find the zip file, But in the master branch you will find all files.
